@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there, I'm Alejandro Fontes</h1>
+<h3 align="center">I am a 9th semester student in Information Systems Engineering, with experience in Full-Stack Development, Database Administration and Agile Project Management. Passionate about solving complex problems using technologies such as Django, Prisma, Express, React and VPS deployment. Leader of multidisciplinary teams focused on scalable solutions and continuous improvement.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfonfdz&label=Profile%20views&color=0e75b6&style=flat" alt="alexfonfdz" /> </p>
 
@@ -7,6 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/afontesfdz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afontesfdz" height="30" width="40" /></a>
+<a href="https://fb.com/afontesfernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afontesfernandez" height="30" width="40" /></a>
+<a href="https://instagram.com/alexf0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexf0803" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfonfdz&show_icons=true&locale=en" alt="alexfonfdz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexfonfdz&" alt="alexfonfdz" /></p>
-
