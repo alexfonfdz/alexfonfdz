@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Alejandro Fontes</h1>
-<h3 align="left">Information Systems Engineer specializing in Back-end and Full-Stack development, with strong experience in database design, API development, and system deployment.
-  
+<h3 align="left">
+Information Systems Engineer specializing in Back-end and Full-Stack development, with strong experience in database design, API development, and system deployment.
+
 Skilled in Django, Express.js, NestJS, Prisma, React, and relational and NoSQL databases. Experienced in deploying and maintaining production systems on VPS environments, applying best practices for scalability, security, and performance.
 
 Background in Agile project management and leading multidisciplinary teams to deliver reliable, scalable solutions..</h3>
